@@ -70,3 +70,7 @@ button:focus-visible {
 .button{
   background-color: pink;
 }
+articles{
+  border-radius: 10px;
+  border: 2px solid grey;
+}
